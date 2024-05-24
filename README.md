@@ -16,12 +16,12 @@ Este guia abrange desde os primeiros passos, como a instalação e configuraçã
 ## 🗄 Apêndice
 | Titulo | Conteudo |
 | ---- | ---- |
-|Git & Github  | [Clique aqui]()|
-|Instalando o Git  | [Clique aqui]()|
-|Configurando o Git  | [Clique aqui]()|
-|Criando repositório local             | [Clique aqui]()|
-|Salvando alterações no repositório local | [Clique aqui]()|
-|Desfazendo alterações no repositório local | [Clique aqui]()|
-|Intergando com o repositório remoto | [Clique aqui]()|
-|Entendendo as Branches | [Clique aqui]()|
-|Comandos úteis no dia a dia | [Clique aqui]()|
+|Git & Github  | [Clique aqui](https://github.com/DevsousaC/Guia-de-uso-Git/blob/main/1.%20Primeiros%20passos/1.1%20Git%20e%20Github.md)|
+|Instalando o Git  | [Clique aqui](https://github.com/DevsousaC/Guia-de-uso-Git/blob/main/1.%20Primeiros%20passos/1.2%20Instalando%20o%20Git.md)|
+|Configurando o Git  | [Clique aqui](https://github.com/DevsousaC/Guia-de-uso-Git/blob/main/1.%20Primeiros%20passos/1.3%20Configurando%20o%20Git.md)|
+|Criando e clonando repositórios             | [Clique aqui](https://github.com/DevsousaC/Guia-de-uso-Git/blob/main/2.%20Criando%20repositório%20local/2.1%20Criando%20e%20clonando%20repositórios.md)|
+|Salvando alterações no repositório local | [Clique aqui](https://github.com/DevsousaC/Guia-de-uso-Git/blob/main/3.%20Alterando%20o%20repositório%20local/3.1%20Salvando%20alterações%20no%20repositório%20local.md)|
+|Desfazendo alterações no repositório local | [Clique aqui](https://github.com/DevsousaC/Guia-de-uso-Git/blob/main/3.%20Alterando%20o%20repositório%20local/3.2%20Desfazendo%20alterações%20no%20repositório%20local.md)|
+|Integrando com o repositório remoto | [Clique aqui](https://github.com/DevsousaC/Guia-de-uso-Git/blob/main/4.%20Conectando%20com%20o%20repositório%20remoto/4.1%20Integração%20com%20o%20repositório%20remoto.md)|
+|Entendendo as Branches | [Clique aqui](https://github.com/DevsousaC/Guia-de-uso-Git/blob/main/5.%20Trabalhando%20com%20Branches/5.1%20Trabalhando%20com%20Branches.md)|
+|Comandos úteis no dia a dia | [Clique aqui](https://github.com/DevsousaC/Guia-de-uso-Git/blob/main/5.%20Trabalhando%20com%20Branches/5.2%20Comandos%20utéis%20no%20dia%20a%20dia.md)|
